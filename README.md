@@ -1,2 +1,3 @@
-# React-Porject-1
+# React-Project-1
 Basic Calculator
+Vite React Typescript
